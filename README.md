@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://budijiie.github.io/product-preview-card-component/)
+- Live Site URL: [My live Site URL](https://budijiie.github.io/product-preview-card-component/)
 
 ## My process
 
