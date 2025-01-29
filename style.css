@@ -132,6 +132,7 @@ h1 {
 .card__description {
   /* margin: 1em 0; */
   color: var(--dark-grayish-blue);
+  line-height: 150%;
 }
 
 .price {
